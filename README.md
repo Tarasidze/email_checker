@@ -3,7 +3,8 @@
 ## :memo: There are two solutions: 
  
 
-- [Use Hunter API](#rocket-external_api)
+- [Use Hunter API](##rocket-external_api)
+- [Script usage](##computer)
 
 
 ## :rocket: Hunter API
@@ -48,4 +49,4 @@ Available methods:
     - set_api_url
 
 ```
-Example you can find in example.py
+Example of usage you can find in example.py
