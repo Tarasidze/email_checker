@@ -1,0 +1,7 @@
+.env
+setup.cfg
+hunter_io_email_checker/setup.cfg
+/venv
+__pycache__/
+idea folder.
+#.idea/
