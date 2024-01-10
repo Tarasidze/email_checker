@@ -40,7 +40,7 @@
           cd hunter_io_email_checker_v2/db_email
    ```
    ```shell
-          db_create_site.py
+          db_create_email_data.py
     ```
 
 ## :computer: Script usage
